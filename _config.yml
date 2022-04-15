@@ -1,0 +1,8 @@
+locale                   : "en-US"
+title                    : "hyo site"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "hyoo"
+description              : "An amazing website."
+url                      : "https://lucehyo.github.io/"
+baseurl                  : # the subpath of your site, e.g. "/blog"
